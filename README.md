@@ -1,13 +1,4 @@
-# Trollium Source Code, outdated.
+# Trollium Source Code
 
-I am the owner of this revival! Check out one of my latest ones: https://exledd.xyz. discord.gg/idk16
-
-Ask me if there's errors on this source code. And also, this SRC is very similar to Exiled.
-
-    Reason it doesn't work sometimes:
-		# Including an file using shortcuts folder (this was hell for me)
-		# Apache Configuration file is bugging directories
-		
-Will help you, maybe. Will love seeing Trollium revivals!
-
-                                                                                                                                          - Raymonf#0001
+UPDATE of 19/01/24: This code is created as an experiment by me and my friends, is vulnerable and unintentionally serves as an ORR. Please refrain from using it; I have developed a "slightly improved" source code, though I'm only sharing it with my online friends
+- and3rw on Discord
